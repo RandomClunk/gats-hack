@@ -1,4 +1,9 @@
 # gats-hack
+
+# SEE ALSO
+https://github.com/RandomClunk/gats-scripts
+___
+
 A hack for gats.io
 
 ### About
